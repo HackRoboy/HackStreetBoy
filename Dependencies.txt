@@ -1,0 +1,12 @@
+ecantorix(installed to ../ecantorix):
+	espeak
+	sox
+	lmms
+	perl
+		-> cpan Test
+		-> cpan Config::Tiny
+		-> cpan MIDI::Opus
+		-> cpan Math::FFT
+
+other:
+	abc2midi
